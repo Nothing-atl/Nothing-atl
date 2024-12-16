@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a very secret project..<br>🌱 I’m currently learning AI and software Engineering<br> - 😄 Pronouns: ...<br>⚡ Fun fact: i like coding, painting, reading<br>
+🔭 I’m currently working on a very secret project..<br>🌱 I’m currently learning AI and software Engineering<br> 😄 Pronouns:She/Her <br>⚡ Fun fact: i like coding, painting, reading<br>
 
 
 ## 🌐 Socials:
